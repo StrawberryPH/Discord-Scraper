@@ -6,5 +6,8 @@
 <p align="center">
   <img height="250" src="https://lanyard-profile-readme.vercel.app/api/1121869581452050504?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px)" alt="Stars"/>
 </p>
+
+
 # Discord-Scraper
+
 Scrapes Usernames And Activities From All Members In Servers Your Bot Is In
